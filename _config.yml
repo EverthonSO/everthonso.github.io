@@ -21,7 +21,7 @@ repository               : "https://everthonso.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "perfil03.png"
+  avatar           : "profile.png"
   name             : "Everthon Oliveira"
   pronouns         : # example: "he/him"  
   bio              : "Professor no Departamento de Engenharia Elétrica, Doutor em Engenharia Elétrica pela UFMG. Principais interesses: Controle e Modelagem por Lógica Fuzzy, Controle Adaptativo, e Instrumentação Inteligente."
